@@ -1,0 +1,38 @@
+# --- Core Machine Learning & Deep Learning ---
+torch>=2.0.0
+transformers>=4.30.0
+pytorch-lightning>=2.0.0
+sentence-transformers>=2.2.0
+
+# --- Neuro-Symbolic & Optimization ---
+cvxpy>=1.3.0
+cvxpylayers>=0.1.5
+
+# --- Vector Database & RAG ---
+chromadb>=0.4.0
+faiss-cpu>=1.7.0
+
+# --- Time-Series & Data Processing ---
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+statsmodels>=0.14.0
+prophet>=1.1.0
+
+# --- Benchmarking ---
+xgboost>=1.7.0
+neuralforecast>=1.6.0
+datasetsforecast>=0.0.8
+
+# --- Explainable AI (XAI) ---
+shap>=0.42.0
+umap-learn>=0.5.3
+
+# --- Visualization & Analysis ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+
+# --- Utils & Config ---
+pyyaml>=6.0
+python-dotenv>=1.0.0
