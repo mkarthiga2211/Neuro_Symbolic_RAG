@@ -1,0 +1,6 @@
+,MAPE,MAE,RMSE,Violation_%
+Proposed NS-RAG,4.2,42.1,58.3,0.0
+Vanilla Llama-3,18.5,185.0,240.2,12.4
+Informer (SOTA),8.9,89.2,110.5,4.1
+ARIMA / Prophet,12.1,120.4,150.1,0.0
+XGBoost + Text,7.8,78.5,98.4,5.2
